@@ -65,9 +65,8 @@
    //  "forceConsistentCasingInFileNames": true  /* Disallow inconsistently-cased references to the same file. */
     "lib": [
       "dom",
-      "es5",
-      "scripthost",
-      "es2015.collection"
+      "es6",
+      "scripthost"
     ]
   }
 }
